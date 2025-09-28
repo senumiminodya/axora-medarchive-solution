@@ -1,0 +1,2465 @@
+split,medical_specialty,cluster
+train,Cardiovascular / Pulmonary,9
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,10
+train,Nephrology,1
+train,Cardiovascular / Pulmonary,1
+train,Obstetrics / Gynecology,5
+train,Ophthalmology,5
+train,Gastroenterology,12
+train,Neurology,5
+train,ENT - Otolaryngology,11
+train,Nephrology,2
+train,Neurology,5
+train,Cardiovascular / Pulmonary,9
+train,Psychiatry / Psychology,5
+train,Cardiovascular / Pulmonary,10
+train,Gastroenterology,1
+train,Cardiovascular / Pulmonary,1
+train,Gastroenterology,8
+train,Neurology,4
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,3
+train,Neurology,4
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,8
+train,Orthopedic,0
+train,Cardiovascular / Pulmonary,10
+train,Psychiatry / Psychology,5
+train,Orthopedic,3
+train,Cardiovascular / Pulmonary,1
+train,Nephrology,2
+train,Obstetrics / Gynecology,2
+train,Neurology,5
+train,Neurology,5
+train,Orthopedic,8
+train,Gastroenterology,3
+train,Nephrology,5
+train,Pediatrics - Neonatal,11
+train,Cardiovascular / Pulmonary,3
+train,Neurosurgery,3
+train,Obstetrics / Gynecology,5
+train,Cardiovascular / Pulmonary,10
+train,Hematology - Oncology,1
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,10
+train,Nephrology,1
+train,Gastroenterology,5
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,1
+train,Obstetrics / Gynecology,2
+train,Pediatrics - Neonatal,11
+train,Obstetrics / Gynecology,2
+train,Psychiatry / Psychology,5
+train,Radiology,11
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,0
+train,Cardiovascular / Pulmonary,10
+train,Hematology - Oncology,1
+train,Neurology,4
+train,Neurosurgery,3
+train,Neurology,5
+train,Ophthalmology,5
+train,Orthopedic,0
+train,Ophthalmology,7
+train,Obstetrics / Gynecology,2
+train,Neurology,5
+train,Obstetrics / Gynecology,2
+train,Psychiatry / Psychology,5
+train,Orthopedic,7
+train,Obstetrics / Gynecology,2
+train,Neurology,8
+train,Orthopedic,3
+train,Neurosurgery,0
+train,Gastroenterology,1
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,10
+train,Neurology,5
+train,Cardiovascular / Pulmonary,1
+train,Neurology,8
+train,Pediatrics - Neonatal,5
+train,Cardiovascular / Pulmonary,6
+train,Psychiatry / Psychology,5
+train,Neurology,5
+train,Orthopedic,8
+train,Cardiovascular / Pulmonary,8
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,1
+train,Psychiatry / Psychology,5
+train,Orthopedic,0
+train,Orthopedic,5
+train,Neurology,1
+train,Hematology - Oncology,3
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,3
+train,Neurology,4
+train,Neurology,4
+train,Obstetrics / Gynecology,11
+train,Gastroenterology,12
+train,Orthopedic,4
+train,Gastroenterology,12
+train,Neurology,5
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,11
+train,Ophthalmology,7
+train,Orthopedic,5
+train,Orthopedic,7
+train,Neurology,5
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,Gastroenterology,10
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,3
+train,Obstetrics / Gynecology,11
+train,Neurology,4
+train,Cardiovascular / Pulmonary,6
+train,Orthopedic,8
+train,Cardiovascular / Pulmonary,5
+train,Pediatrics - Neonatal,11
+train,Gastroenterology,3
+train,Cardiovascular / Pulmonary,6
+train,Cardiovascular / Pulmonary,10
+train,Neurology,5
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,6
+train,Orthopedic,7
+train,Orthopedic,7
+train,Orthopedic,4
+train,Cardiovascular / Pulmonary,5
+train,Cardiovascular / Pulmonary,1
+train,Gastroenterology,2
+train,Orthopedic,4
+train,Neurology,4
+train,Cardiovascular / Pulmonary,9
+train,Obstetrics / Gynecology,11
+train,Obstetrics / Gynecology,1
+train,Neurosurgery,3
+train,Neurosurgery,3
+train,Pediatrics - Neonatal,11
+train,Obstetrics / Gynecology,3
+train,Pediatrics - Neonatal,11
+train,Gastroenterology,1
+train,Orthopedic,8
+train,Radiology,9
+train,Neurosurgery,3
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,1
+train,Neurosurgery,7
+train,Orthopedic,5
+train,Psychiatry / Psychology,5
+train,ENT - Otolaryngology,3
+train,Orthopedic,8
+train,Cardiovascular / Pulmonary,10
+train,Neurosurgery,3
+train,Orthopedic,7
+train,Orthopedic,7
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,1
+train,Pediatrics - Neonatal,11
+train,Cardiovascular / Pulmonary,7
+train,Obstetrics / Gynecology,11
+train,Neurosurgery,0
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,12
+train,Obstetrics / Gynecology,2
+train,Pediatrics - Neonatal,11
+train,ENT - Otolaryngology,5
+train,Neurology,5
+train,Cardiovascular / Pulmonary,3
+train,Neurosurgery,0
+train,Hematology - Oncology,1
+train,Obstetrics / Gynecology,2
+train,Ophthalmology,7
+train,ENT - Otolaryngology,3
+train,Hematology - Oncology,5
+train,Gastroenterology,12
+train,Pediatrics - Neonatal,11
+train,Gastroenterology,5
+train,Cardiovascular / Pulmonary,5
+train,Neurosurgery,3
+train,Nephrology,1
+train,Orthopedic,1
+train,Pediatrics - Neonatal,11
+train,Neurology,4
+train,Cardiovascular / Pulmonary,5
+train,Orthopedic,0
+train,Hematology - Oncology,3
+train,Obstetrics / Gynecology,2
+train,Neurosurgery,3
+train,Cardiovascular / Pulmonary,9
+train,Radiology,4
+train,Orthopedic,3
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,5
+train,Gastroenterology,12
+train,Cardiovascular / Pulmonary,3
+train,Nephrology,1
+train,Gastroenterology,5
+train,Radiology,4
+train,Neurology,4
+train,Cardiovascular / Pulmonary,10
+train,Gastroenterology,5
+train,Obstetrics / Gynecology,8
+train,Radiology,4
+train,Orthopedic,0
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,2
+train,Cardiovascular / Pulmonary,3
+train,Neurology,4
+train,Pediatrics - Neonatal,11
+train,Orthopedic,7
+train,Ophthalmology,7
+train,Neurology,5
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,12
+train,Cardiovascular / Pulmonary,9
+train,Orthopedic,0
+train,Obstetrics / Gynecology,2
+train,Orthopedic,1
+train,Obstetrics / Gynecology,1
+train,Neurology,5
+train,Pediatrics - Neonatal,5
+train,Neurosurgery,3
+train,Cardiovascular / Pulmonary,10
+train,Pediatrics - Neonatal,11
+train,Ophthalmology,5
+train,Gastroenterology,5
+train,Psychiatry / Psychology,1
+train,Gastroenterology,5
+train,Orthopedic,7
+train,Hematology - Oncology,5
+train,Orthopedic,7
+train,Neurology,4
+train,Ophthalmology,7
+train,Obstetrics / Gynecology,2
+train,Gastroenterology,12
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,4
+train,Cardiovascular / Pulmonary,9
+train,Neurosurgery,5
+train,Cardiovascular / Pulmonary,12
+train,Obstetrics / Gynecology,11
+train,Gastroenterology,5
+train,Radiology,4
+train,Cardiovascular / Pulmonary,12
+train,Orthopedic,7
+train,Obstetrics / Gynecology,11
+train,Neurology,4
+train,Neurology,8
+train,Cardiovascular / Pulmonary,1
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,10
+train,Psychiatry / Psychology,5
+train,Obstetrics / Gynecology,2
+train,Neurology,5
+train,Cardiovascular / Pulmonary,10
+train,ENT - Otolaryngology,3
+train,Obstetrics / Gynecology,2
+train,Orthopedic,0
+train,Obstetrics / Gynecology,2
+train,Orthopedic,7
+train,Orthopedic,7
+train,Radiology,4
+train,Psychiatry / Psychology,1
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,7
+train,Neurosurgery,0
+train,Orthopedic,5
+train,Orthopedic,8
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,9
+train,ENT - Otolaryngology,11
+train,Cardiovascular / Pulmonary,6
+train,Obstetrics / Gynecology,5
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,1
+train,Psychiatry / Psychology,1
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,10
+train,Neurology,8
+train,Neurology,8
+train,Hematology - Oncology,5
+train,Orthopedic,3
+train,Radiology,4
+train,Cardiovascular / Pulmonary,12
+train,Hematology - Oncology,1
+train,Cardiovascular / Pulmonary,9
+train,Orthopedic,7
+train,Orthopedic,4
+train,Cardiovascular / Pulmonary,9
+train,Obstetrics / Gynecology,11
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,6
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,7
+train,Pediatrics - Neonatal,11
+train,Orthopedic,3
+train,Gastroenterology,8
+train,Obstetrics / Gynecology,2
+train,Psychiatry / Psychology,1
+train,Ophthalmology,5
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,7
+train,Neurosurgery,0
+train,Orthopedic,3
+train,Cardiovascular / Pulmonary,3
+train,Hematology - Oncology,1
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,1
+train,Neurosurgery,7
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,5
+train,Orthopedic,0
+train,Orthopedic,0
+train,Gastroenterology,12
+train,Cardiovascular / Pulmonary,5
+train,Cardiovascular / Pulmonary,1
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,1
+train,Hematology - Oncology,5
+train,Pediatrics - Neonatal,11
+train,Nephrology,1
+train,Psychiatry / Psychology,5
+train,Cardiovascular / Pulmonary,10
+train,Neurology,5
+train,Hematology - Oncology,3
+train,Obstetrics / Gynecology,2
+train,Orthopedic,0
+train,Radiology,11
+train,Neurology,5
+train,Cardiovascular / Pulmonary,3
+train,Neurology,8
+train,Cardiovascular / Pulmonary,6
+train,Ophthalmology,7
+train,Nephrology,8
+train,Neurology,5
+train,Psychiatry / Psychology,1
+train,Orthopedic,0
+train,Cardiovascular / Pulmonary,3
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,7
+train,Hematology - Oncology,1
+train,Cardiovascular / Pulmonary,3
+train,Pediatrics - Neonatal,11
+train,Ophthalmology,3
+train,Orthopedic,8
+train,Obstetrics / Gynecology,2
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,6
+train,Neurology,1
+train,Neurosurgery,3
+train,Obstetrics / Gynecology,3
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,6
+train,Ophthalmology,7
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,1
+train,Neurology,3
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,8
+train,Ophthalmology,7
+train,Orthopedic,7
+train,Neurosurgery,0
+train,Neurosurgery,0
+train,Orthopedic,0
+train,Gastroenterology,12
+train,Neurology,8
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,11
+train,Gastroenterology,12
+train,ENT - Otolaryngology,5
+train,Orthopedic,8
+train,Gastroenterology,5
+train,Cardiovascular / Pulmonary,9
+train,Ophthalmology,7
+train,Psychiatry / Psychology,5
+train,Cardiovascular / Pulmonary,3
+train,Obstetrics / Gynecology,2
+train,Orthopedic,7
+train,Neurology,5
+train,Ophthalmology,7
+train,Cardiovascular / Pulmonary,6
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,0
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,3
+train,Obstetrics / Gynecology,2
+train,Neurology,1
+train,Obstetrics / Gynecology,2
+train,Radiology,5
+train,ENT - Otolaryngology,3
+train,Neurology,5
+train,Orthopedic,5
+train,Neurosurgery,3
+train,Orthopedic,8
+train,ENT - Otolaryngology,5
+train,Gastroenterology,3
+train,Cardiovascular / Pulmonary,10
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,1
+train,Hematology - Oncology,5
+train,Hematology - Oncology,1
+train,Cardiovascular / Pulmonary,2
+train,Obstetrics / Gynecology,11
+train,Cardiovascular / Pulmonary,5
+train,Gastroenterology,12
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,7
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,5
+train,Gastroenterology,8
+train,Gastroenterology,1
+train,Obstetrics / Gynecology,11
+train,Hematology - Oncology,11
+train,Orthopedic,3
+train,Neurology,8
+train,Nephrology,1
+train,ENT - Otolaryngology,3
+train,Orthopedic,8
+train,Cardiovascular / Pulmonary,1
+train,Radiology,11
+train,Pediatrics - Neonatal,11
+train,Nephrology,3
+train,Neurology,3
+train,Neurology,4
+train,Orthopedic,7
+train,Orthopedic,5
+train,Obstetrics / Gynecology,5
+train,Cardiovascular / Pulmonary,5
+train,Obstetrics / Gynecology,11
+train,Cardiovascular / Pulmonary,9
+train,Orthopedic,8
+train,Gastroenterology,1
+train,Hematology - Oncology,1
+train,Cardiovascular / Pulmonary,3
+train,Neurology,4
+train,Neurology,5
+train,Radiology,4
+train,Orthopedic,7
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,12
+train,Neurosurgery,3
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,8
+train,Neurology,5
+train,ENT - Otolaryngology,3
+train,ENT - Otolaryngology,11
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,12
+train,Neurology,5
+train,Neurosurgery,0
+train,Cardiovascular / Pulmonary,10
+train,Radiology,4
+train,Hematology - Oncology,3
+train,Cardiovascular / Pulmonary,10
+train,Gastroenterology,1
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,8
+train,Orthopedic,7
+train,Orthopedic,3
+train,Cardiovascular / Pulmonary,1
+train,ENT - Otolaryngology,11
+train,Cardiovascular / Pulmonary,3
+train,Nephrology,3
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,3
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,3
+train,Pediatrics - Neonatal,11
+train,Gastroenterology,3
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,11
+train,Hematology - Oncology,5
+train,Gastroenterology,12
+train,Pediatrics - Neonatal,11
+train,Cardiovascular / Pulmonary,1
+train,Hematology - Oncology,5
+train,Orthopedic,7
+train,Obstetrics / Gynecology,5
+train,Gastroenterology,12
+train,Cardiovascular / Pulmonary,6
+train,Neurology,5
+train,Nephrology,11
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,10
+train,Pediatrics - Neonatal,11
+train,Neurology,3
+train,Orthopedic,5
+train,Neurology,8
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,9
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,5
+train,Orthopedic,3
+train,Pediatrics - Neonatal,11
+train,Radiology,4
+train,Orthopedic,7
+train,Obstetrics / Gynecology,3
+train,Gastroenterology,5
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,11
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,1
+train,Gastroenterology,2
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,11
+train,Cardiovascular / Pulmonary,5
+train,Orthopedic,8
+train,Neurology,5
+train,Neurosurgery,11
+train,Gastroenterology,5
+train,Cardiovascular / Pulmonary,9
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,8
+train,Nephrology,3
+train,Neurosurgery,3
+train,Cardiovascular / Pulmonary,9
+train,ENT - Otolaryngology,11
+train,Cardiovascular / Pulmonary,1
+train,Obstetrics / Gynecology,1
+train,Neurology,5
+train,Orthopedic,1
+train,Obstetrics / Gynecology,2
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,5
+train,Cardiovascular / Pulmonary,2
+train,ENT - Otolaryngology,3
+train,Hematology - Oncology,7
+train,Cardiovascular / Pulmonary,9
+train,Neurology,5
+train,Obstetrics / Gynecology,11
+train,Neurology,8
+train,Pediatrics - Neonatal,5
+train,Cardiovascular / Pulmonary,6
+train,Neurology,8
+train,Cardiovascular / Pulmonary,3
+train,Pediatrics - Neonatal,11
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,1
+train,Neurology,5
+train,Gastroenterology,12
+train,Hematology - Oncology,3
+train,Neurology,8
+train,Hematology - Oncology,5
+train,Orthopedic,8
+train,Orthopedic,7
+train,Nephrology,8
+train,Pediatrics - Neonatal,11
+train,Orthopedic,3
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,3
+train,Neurosurgery,0
+train,Orthopedic,4
+train,Cardiovascular / Pulmonary,6
+train,Neurosurgery,7
+train,Orthopedic,3
+train,Orthopedic,7
+train,Nephrology,1
+train,Cardiovascular / Pulmonary,3
+train,Hematology - Oncology,3
+train,Cardiovascular / Pulmonary,6
+train,Pediatrics - Neonatal,11
+train,Orthopedic,0
+train,Cardiovascular / Pulmonary,3
+train,Psychiatry / Psychology,1
+train,Psychiatry / Psychology,5
+train,Orthopedic,7
+train,Gastroenterology,5
+train,Neurosurgery,0
+train,Orthopedic,0
+train,Hematology - Oncology,5
+train,Psychiatry / Psychology,5
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,7
+train,Obstetrics / Gynecology,2
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,1
+train,Hematology - Oncology,2
+train,Psychiatry / Psychology,1
+train,Cardiovascular / Pulmonary,6
+train,Cardiovascular / Pulmonary,3
+train,Gastroenterology,12
+train,Hematology - Oncology,3
+train,Nephrology,1
+train,Ophthalmology,3
+train,Gastroenterology,2
+train,Gastroenterology,3
+train,Obstetrics / Gynecology,2
+train,Orthopedic,7
+train,Neurology,5
+train,Cardiovascular / Pulmonary,9
+train,Nephrology,8
+train,Orthopedic,5
+train,Orthopedic,5
+train,Psychiatry / Psychology,1
+train,Gastroenterology,1
+train,Gastroenterology,2
+train,Neurology,5
+train,Obstetrics / Gynecology,2
+train,Nephrology,5
+train,Psychiatry / Psychology,5
+train,Nephrology,8
+train,Cardiovascular / Pulmonary,8
+train,Gastroenterology,8
+train,Gastroenterology,1
+train,Hematology - Oncology,5
+train,Neurosurgery,3
+train,Pediatrics - Neonatal,11
+train,Hematology - Oncology,1
+train,Neurology,5
+train,Neurosurgery,0
+train,Cardiovascular / Pulmonary,3
+train,Radiology,4
+train,Orthopedic,7
+train,Ophthalmology,3
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,10
+train,Neurology,4
+train,Orthopedic,7
+train,Gastroenterology,2
+train,Ophthalmology,7
+train,Cardiovascular / Pulmonary,1
+train,Neurology,5
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,7
+train,Obstetrics / Gynecology,5
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,7
+train,Gastroenterology,5
+train,Gastroenterology,12
+train,Orthopedic,0
+train,Obstetrics / Gynecology,5
+train,Ophthalmology,5
+train,Obstetrics / Gynecology,5
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,1
+train,Neurosurgery,7
+train,Neurology,1
+train,Orthopedic,0
+train,Gastroenterology,5
+train,Neurology,5
+train,Orthopedic,0
+train,Orthopedic,8
+train,Gastroenterology,2
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,3
+train,Neurology,5
+train,Obstetrics / Gynecology,11
+train,Orthopedic,5
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,3
+train,Neurology,4
+train,Cardiovascular / Pulmonary,1
+train,Hematology - Oncology,5
+train,Neurology,3
+train,Gastroenterology,3
+train,Orthopedic,3
+train,Cardiovascular / Pulmonary,8
+train,Orthopedic,7
+train,Orthopedic,0
+train,Cardiovascular / Pulmonary,9
+train,Neurosurgery,0
+train,Radiology,11
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,12
+train,Gastroenterology,12
+train,Cardiovascular / Pulmonary,3
+train,Nephrology,1
+train,Neurosurgery,3
+train,Orthopedic,3
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,3
+train,Hematology - Oncology,5
+train,Radiology,8
+train,Cardiovascular / Pulmonary,1
+train,Neurology,4
+train,Gastroenterology,12
+train,Cardiovascular / Pulmonary,12
+train,Obstetrics / Gynecology,11
+train,Orthopedic,8
+train,Radiology,4
+train,Cardiovascular / Pulmonary,1
+train,Neurology,5
+train,Cardiovascular / Pulmonary,3
+train,Gastroenterology,5
+train,Orthopedic,8
+train,Neurology,4
+train,Orthopedic,7
+train,Ophthalmology,3
+train,Neurosurgery,0
+train,Cardiovascular / Pulmonary,3
+train,Neurology,5
+train,ENT - Otolaryngology,3
+train,Obstetrics / Gynecology,5
+train,Cardiovascular / Pulmonary,12
+train,Obstetrics / Gynecology,2
+train,Orthopedic,7
+train,Obstetrics / Gynecology,5
+train,Obstetrics / Gynecology,11
+train,Gastroenterology,12
+train,Gastroenterology,1
+train,Obstetrics / Gynecology,2
+train,Psychiatry / Psychology,5
+train,Neurology,4
+train,Orthopedic,7
+train,Psychiatry / Psychology,5
+train,Pediatrics - Neonatal,11
+train,Orthopedic,0
+train,Cardiovascular / Pulmonary,3
+train,Neurology,4
+train,Ophthalmology,7
+train,Gastroenterology,12
+train,Gastroenterology,2
+train,Hematology - Oncology,1
+train,Pediatrics - Neonatal,11
+train,Obstetrics / Gynecology,2
+train,Orthopedic,0
+train,Neurology,4
+train,Cardiovascular / Pulmonary,5
+train,Gastroenterology,12
+train,Nephrology,1
+train,Obstetrics / Gynecology,11
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,9
+train,Gastroenterology,2
+train,Obstetrics / Gynecology,2
+train,Gastroenterology,8
+train,Hematology - Oncology,1
+train,Orthopedic,0
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,6
+train,Hematology - Oncology,5
+train,Gastroenterology,5
+train,Cardiovascular / Pulmonary,5
+train,Neurology,5
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,10
+train,Psychiatry / Psychology,5
+train,Ophthalmology,5
+train,Orthopedic,5
+train,Obstetrics / Gynecology,2
+train,Gastroenterology,1
+train,Orthopedic,0
+train,Orthopedic,8
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,10
+train,Gastroenterology,12
+train,Neurology,5
+train,Gastroenterology,5
+train,Cardiovascular / Pulmonary,12
+train,Hematology - Oncology,3
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,5
+train,Neurology,5
+train,Cardiovascular / Pulmonary,3
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,9
+train,Neurology,5
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,3
+train,Neurology,4
+train,Neurology,8
+train,Cardiovascular / Pulmonary,10
+train,Neurosurgery,0
+train,Gastroenterology,3
+train,Orthopedic,7
+train,Neurology,5
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,0
+train,Cardiovascular / Pulmonary,1
+train,Gastroenterology,12
+train,Obstetrics / Gynecology,8
+train,Pediatrics - Neonatal,11
+train,Orthopedic,7
+train,Orthopedic,7
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,1
+train,Pediatrics - Neonatal,11
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,7
+train,Orthopedic,8
+train,Obstetrics / Gynecology,8
+train,Pediatrics - Neonatal,11
+train,Cardiovascular / Pulmonary,9
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,1
+train,Neurology,5
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,8
+train,Hematology - Oncology,1
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,5
+train,Orthopedic,0
+train,Orthopedic,3
+train,Neurology,5
+train,Orthopedic,5
+train,Neurology,4
+train,Cardiovascular / Pulmonary,9
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,1
+train,Neurosurgery,7
+train,Ophthalmology,5
+train,Hematology - Oncology,1
+train,Cardiovascular / Pulmonary,6
+train,Gastroenterology,2
+train,Orthopedic,7
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,1
+train,Neurosurgery,0
+train,Obstetrics / Gynecology,1
+train,Neurology,0
+train,Obstetrics / Gynecology,2
+train,Orthopedic,8
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,5
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,3
+train,Gastroenterology,1
+train,Psychiatry / Psychology,5
+train,ENT - Otolaryngology,3
+train,Orthopedic,3
+train,Nephrology,1
+train,Neurology,5
+train,Cardiovascular / Pulmonary,9
+train,Obstetrics / Gynecology,5
+train,Obstetrics / Gynecology,2
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,1
+train,Psychiatry / Psychology,5
+train,Neurology,4
+train,Neurosurgery,7
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,1
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,10
+train,Obstetrics / Gynecology,3
+train,Gastroenterology,8
+train,Neurology,8
+train,Pediatrics - Neonatal,11
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,1
+train,Psychiatry / Psychology,5
+train,Gastroenterology,1
+train,Pediatrics - Neonatal,11
+train,Neurology,5
+train,Neurosurgery,0
+train,Neurology,3
+train,Neurology,5
+train,Neurology,5
+train,Orthopedic,5
+train,Gastroenterology,8
+train,Neurology,5
+train,Cardiovascular / Pulmonary,11
+train,Pediatrics - Neonatal,11
+train,Cardiovascular / Pulmonary,6
+train,Pediatrics - Neonatal,11
+train,Cardiovascular / Pulmonary,3
+train,Neurosurgery,5
+train,Cardiovascular / Pulmonary,10
+train,Gastroenterology,5
+train,Radiology,9
+train,Ophthalmology,7
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,5
+train,Orthopedic,3
+train,Cardiovascular / Pulmonary,1
+train,Ophthalmology,7
+train,Neurology,5
+train,Neurology,5
+train,Cardiovascular / Pulmonary,10
+train,Gastroenterology,5
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,12
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,6
+train,Orthopedic,5
+train,Orthopedic,7
+train,Psychiatry / Psychology,5
+train,Orthopedic,5
+train,Orthopedic,7
+train,Ophthalmology,7
+train,Orthopedic,7
+train,Gastroenterology,3
+train,Neurosurgery,3
+train,Orthopedic,8
+train,Gastroenterology,5
+train,Cardiovascular / Pulmonary,10
+train,Gastroenterology,5
+train,Neurology,5
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,12
+train,Cardiovascular / Pulmonary,11
+train,Neurology,4
+train,ENT - Otolaryngology,3
+train,Ophthalmology,7
+train,Neurology,5
+train,Hematology - Oncology,11
+train,Gastroenterology,2
+train,Gastroenterology,5
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,3
+train,Psychiatry / Psychology,5
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,10
+train,Nephrology,3
+train,Orthopedic,7
+train,Hematology - Oncology,1
+train,Cardiovascular / Pulmonary,9
+train,Nephrology,5
+train,Obstetrics / Gynecology,11
+train,Obstetrics / Gynecology,11
+train,Cardiovascular / Pulmonary,6
+train,Radiology,4
+train,Gastroenterology,2
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,3
+train,ENT - Otolaryngology,3
+train,Orthopedic,7
+train,Gastroenterology,12
+train,ENT - Otolaryngology,3
+train,Gastroenterology,2
+train,Neurology,5
+train,ENT - Otolaryngology,5
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,10
+train,Neurosurgery,0
+train,Gastroenterology,2
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,6
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,ENT - Otolaryngology,3
+train,Hematology - Oncology,5
+train,Radiology,11
+train,Neurosurgery,0
+train,Radiology,6
+train,Obstetrics / Gynecology,5
+train,Obstetrics / Gynecology,5
+train,Cardiovascular / Pulmonary,1
+train,Gastroenterology,5
+train,Pediatrics - Neonatal,11
+train,Cardiovascular / Pulmonary,1
+train,Obstetrics / Gynecology,11
+train,Pediatrics - Neonatal,11
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,10
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,10
+train,Psychiatry / Psychology,11
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,10
+train,Gastroenterology,5
+train,Radiology,4
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,4
+train,Neurology,8
+train,Neurology,4
+train,Orthopedic,3
+train,Cardiovascular / Pulmonary,11
+train,Orthopedic,5
+train,Nephrology,1
+train,Cardiovascular / Pulmonary,10
+train,Psychiatry / Psychology,1
+train,Pediatrics - Neonatal,11
+train,Neurology,5
+train,Orthopedic,5
+train,ENT - Otolaryngology,11
+train,Orthopedic,3
+train,Cardiovascular / Pulmonary,10
+train,Neurosurgery,3
+train,Cardiovascular / Pulmonary,9
+train,Gastroenterology,12
+train,Radiology,8
+train,Psychiatry / Psychology,1
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,3
+train,Gastroenterology,11
+train,Orthopedic,8
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,12
+train,Obstetrics / Gynecology,1
+train,Gastroenterology,5
+train,Neurosurgery,3
+train,Cardiovascular / Pulmonary,1
+train,Obstetrics / Gynecology,2
+train,Gastroenterology,8
+train,Obstetrics / Gynecology,5
+train,Neurosurgery,0
+train,Neurology,5
+train,Hematology - Oncology,1
+train,Neurology,10
+train,Psychiatry / Psychology,1
+train,Pediatrics - Neonatal,11
+train,Neurology,7
+train,Cardiovascular / Pulmonary,1
+train,Psychiatry / Psychology,5
+train,Obstetrics / Gynecology,2
+train,Neurosurgery,7
+train,Cardiovascular / Pulmonary,3
+train,Nephrology,5
+train,Cardiovascular / Pulmonary,11
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,3
+train,Obstetrics / Gynecology,5
+train,Gastroenterology,3
+train,Orthopedic,7
+train,Radiology,11
+train,Neurology,4
+train,Cardiovascular / Pulmonary,12
+train,Orthopedic,3
+train,Gastroenterology,12
+train,Gastroenterology,8
+train,ENT - Otolaryngology,12
+train,Cardiovascular / Pulmonary,6
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,6
+train,Hematology - Oncology,5
+train,Neurosurgery,3
+train,Neurology,7
+train,Hematology - Oncology,3
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,7
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,5
+train,Gastroenterology,12
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,10
+train,Neurosurgery,0
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,9
+train,Orthopedic,4
+train,Obstetrics / Gynecology,11
+train,Neurology,5
+train,Neurology,8
+train,Psychiatry / Psychology,1
+train,Cardiovascular / Pulmonary,11
+train,Ophthalmology,7
+train,Radiology,10
+train,Psychiatry / Psychology,11
+train,Hematology - Oncology,5
+train,Gastroenterology,12
+train,ENT - Otolaryngology,11
+train,Obstetrics / Gynecology,8
+train,Neurology,5
+train,Hematology - Oncology,3
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,12
+train,Cardiovascular / Pulmonary,1
+train,Obstetrics / Gynecology,3
+train,Orthopedic,7
+train,Nephrology,1
+train,Radiology,8
+train,Orthopedic,7
+train,Obstetrics / Gynecology,3
+train,Obstetrics / Gynecology,1
+train,Psychiatry / Psychology,1
+train,Ophthalmology,5
+train,Orthopedic,8
+train,Orthopedic,8
+train,Psychiatry / Psychology,5
+train,Neurosurgery,3
+train,Orthopedic,5
+train,Neurosurgery,3
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,10
+train,Neurosurgery,3
+train,Gastroenterology,5
+train,Cardiovascular / Pulmonary,10
+train,Neurology,3
+train,Gastroenterology,2
+train,Gastroenterology,5
+train,Hematology - Oncology,3
+train,Cardiovascular / Pulmonary,12
+train,Radiology,4
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,1
+train,Hematology - Oncology,1
+train,Neurology,5
+train,Hematology - Oncology,7
+train,Gastroenterology,12
+train,Gastroenterology,12
+train,Ophthalmology,5
+train,Orthopedic,5
+train,Orthopedic,7
+train,Neurosurgery,7
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,3
+train,Pediatrics - Neonatal,11
+train,Psychiatry / Psychology,5
+train,Nephrology,3
+train,Obstetrics / Gynecology,2
+train,Gastroenterology,12
+train,Gastroenterology,8
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,3
+train,Psychiatry / Psychology,5
+train,Cardiovascular / Pulmonary,3
+train,Pediatrics - Neonatal,11
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,12
+train,Nephrology,11
+train,Orthopedic,7
+train,Neurology,5
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,1
+train,Nephrology,1
+train,Neurosurgery,0
+train,Gastroenterology,12
+train,Cardiovascular / Pulmonary,12
+train,Psychiatry / Psychology,5
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,Neurology,4
+train,Cardiovascular / Pulmonary,11
+train,Neurology,5
+train,Obstetrics / Gynecology,2
+train,Ophthalmology,7
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,9
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,10
+train,Obstetrics / Gynecology,11
+train,Gastroenterology,5
+train,Obstetrics / Gynecology,2
+train,Orthopedic,7
+train,Orthopedic,7
+train,Pediatrics - Neonatal,11
+train,Cardiovascular / Pulmonary,9
+train,Neurology,4
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,7
+train,Neurosurgery,7
+train,Neurology,5
+train,Gastroenterology,8
+train,Hematology - Oncology,5
+train,Ophthalmology,7
+train,Nephrology,1
+train,Cardiovascular / Pulmonary,12
+train,Orthopedic,7
+train,Neurosurgery,7
+train,Orthopedic,0
+train,Neurosurgery,7
+train,Obstetrics / Gynecology,11
+train,Gastroenterology,12
+train,Cardiovascular / Pulmonary,10
+train,Hematology - Oncology,3
+train,Neurology,3
+train,Neurology,4
+train,Cardiovascular / Pulmonary,11
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,8
+train,Gastroenterology,1
+train,Neurosurgery,0
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,10
+train,Neurology,5
+train,Neurology,8
+train,Psychiatry / Psychology,5
+train,Neurosurgery,7
+train,Cardiovascular / Pulmonary,1
+train,Hematology - Oncology,5
+train,Neurosurgery,3
+train,Neurology,4
+train,Orthopedic,5
+train,Gastroenterology,1
+train,Neurology,4
+train,Cardiovascular / Pulmonary,3
+train,Neurology,8
+train,Neurology,5
+train,Orthopedic,3
+train,Orthopedic,0
+train,Orthopedic,5
+train,Gastroenterology,2
+train,Hematology - Oncology,5
+train,Neurology,4
+train,Obstetrics / Gynecology,5
+train,Orthopedic,7
+train,Pediatrics - Neonatal,11
+train,Gastroenterology,2
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,10
+train,Gastroenterology,2
+train,Orthopedic,5
+train,Ophthalmology,7
+train,ENT - Otolaryngology,11
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,6
+train,Cardiovascular / Pulmonary,8
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,1
+train,Neurology,5
+train,Neurosurgery,3
+train,Cardiovascular / Pulmonary,6
+train,Radiology,4
+train,Cardiovascular / Pulmonary,10
+train,Nephrology,1
+train,Neurology,4
+train,Cardiovascular / Pulmonary,3
+train,Radiology,4
+train,Obstetrics / Gynecology,2
+train,Orthopedic,5
+train,Hematology - Oncology,1
+train,Cardiovascular / Pulmonary,12
+train,Cardiovascular / Pulmonary,1
+train,Hematology - Oncology,5
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,10
+train,Gastroenterology,5
+train,Gastroenterology,3
+train,Neurology,5
+train,Orthopedic,5
+train,Orthopedic,7
+train,Orthopedic,0
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,Neurosurgery,3
+train,Cardiovascular / Pulmonary,5
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,5
+train,Pediatrics - Neonatal,11
+train,Hematology - Oncology,1
+train,Orthopedic,8
+train,Neurology,4
+train,Orthopedic,4
+train,ENT - Otolaryngology,3
+train,Neurology,11
+train,Gastroenterology,12
+train,Cardiovascular / Pulmonary,3
+train,Hematology - Oncology,5
+train,Ophthalmology,3
+train,Cardiovascular / Pulmonary,3
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,1
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,10
+train,Ophthalmology,3
+train,Cardiovascular / Pulmonary,1
+train,Neurology,4
+train,Orthopedic,7
+train,Orthopedic,4
+train,Gastroenterology,12
+train,Cardiovascular / Pulmonary,12
+train,Gastroenterology,1
+train,Hematology - Oncology,5
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,1
+train,ENT - Otolaryngology,3
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,5
+train,Neurology,5
+train,Neurosurgery,0
+train,Ophthalmology,7
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,7
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,5
+train,Psychiatry / Psychology,5
+train,Orthopedic,8
+train,Gastroenterology,3
+train,Gastroenterology,8
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,10
+train,Pediatrics - Neonatal,11
+train,Cardiovascular / Pulmonary,9
+train,Obstetrics / Gynecology,3
+train,Nephrology,3
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,5
+train,Orthopedic,5
+train,Psychiatry / Psychology,5
+train,Cardiovascular / Pulmonary,5
+train,Obstetrics / Gynecology,2
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,1
+train,Neurosurgery,0
+train,Cardiovascular / Pulmonary,9
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,1
+train,Nephrology,8
+train,Neurology,5
+train,Cardiovascular / Pulmonary,10
+train,Nephrology,8
+train,Orthopedic,8
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,5
+train,Neurosurgery,5
+train,Gastroenterology,2
+train,Cardiovascular / Pulmonary,12
+train,Cardiovascular / Pulmonary,8
+train,Neurology,5
+train,Neurology,4
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,10
+train,Psychiatry / Psychology,1
+train,Orthopedic,7
+train,Nephrology,2
+train,Neurology,5
+train,Neurology,8
+train,Cardiovascular / Pulmonary,6
+train,Gastroenterology,1
+train,ENT - Otolaryngology,11
+train,Cardiovascular / Pulmonary,1
+train,Neurology,5
+train,Neurology,5
+train,Cardiovascular / Pulmonary,1
+train,Gastroenterology,8
+train,Gastroenterology,2
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,9
+train,Psychiatry / Psychology,5
+train,Obstetrics / Gynecology,5
+train,Cardiovascular / Pulmonary,1
+train,Hematology - Oncology,5
+train,Gastroenterology,1
+train,Gastroenterology,12
+train,Neurosurgery,10
+train,Neurology,8
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,0
+train,Neurology,5
+train,Gastroenterology,5
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,4
+train,Neurology,8
+train,Cardiovascular / Pulmonary,12
+train,Cardiovascular / Pulmonary,11
+train,Gastroenterology,5
+train,Neurosurgery,5
+train,Cardiovascular / Pulmonary,10
+train,Gastroenterology,11
+train,Neurology,5
+train,Neurology,5
+train,Nephrology,5
+train,Hematology - Oncology,3
+train,Radiology,4
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,Gastroenterology,3
+train,ENT - Otolaryngology,11
+train,Hematology - Oncology,1
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,9
+train,Obstetrics / Gynecology,5
+train,Gastroenterology,2
+train,Ophthalmology,7
+train,Hematology - Oncology,5
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,12
+train,Obstetrics / Gynecology,5
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,0
+train,Gastroenterology,1
+train,Cardiovascular / Pulmonary,1
+train,Obstetrics / Gynecology,2
+train,Hematology - Oncology,1
+train,Neurology,5
+train,Neurology,5
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,10
+train,Neurology,1
+train,Orthopedic,1
+train,Neurology,4
+train,Cardiovascular / Pulmonary,12
+train,Cardiovascular / Pulmonary,3
+train,Neurology,4
+train,Neurosurgery,3
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,8
+train,Cardiovascular / Pulmonary,5
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,7
+train,Hematology - Oncology,3
+train,Gastroenterology,5
+train,Neurology,0
+train,Pediatrics - Neonatal,11
+train,Cardiovascular / Pulmonary,11
+train,Cardiovascular / Pulmonary,10
+train,Pediatrics - Neonatal,11
+train,Orthopedic,3
+train,Neurology,4
+train,Cardiovascular / Pulmonary,9
+train,Hematology - Oncology,3
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,10
+train,Neurosurgery,7
+train,Neurology,8
+train,Ophthalmology,7
+train,Cardiovascular / Pulmonary,9
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,3
+train,Obstetrics / Gynecology,11
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,7
+train,Nephrology,1
+train,Orthopedic,7
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,9
+train,Gastroenterology,3
+train,Nephrology,1
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,3
+train,ENT - Otolaryngology,5
+train,Cardiovascular / Pulmonary,10
+train,Obstetrics / Gynecology,5
+train,Gastroenterology,11
+train,Ophthalmology,5
+train,Ophthalmology,7
+train,Orthopedic,8
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,5
+train,Psychiatry / Psychology,5
+train,Cardiovascular / Pulmonary,8
+train,Radiology,4
+train,Neurology,4
+train,Orthopedic,3
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,9
+train,Obstetrics / Gynecology,11
+train,Orthopedic,5
+train,Gastroenterology,12
+train,Cardiovascular / Pulmonary,12
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,10
+train,Obstetrics / Gynecology,5
+train,Orthopedic,7
+train,Ophthalmology,7
+train,Cardiovascular / Pulmonary,5
+train,Neurology,5
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,12
+train,Cardiovascular / Pulmonary,10
+train,Neurology,5
+train,Cardiovascular / Pulmonary,12
+train,ENT - Otolaryngology,5
+train,Orthopedic,7
+train,Hematology - Oncology,5
+train,Orthopedic,7
+train,Neurosurgery,0
+train,Obstetrics / Gynecology,5
+train,Cardiovascular / Pulmonary,11
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,11
+train,Neurology,5
+train,Neurology,5
+train,Cardiovascular / Pulmonary,7
+train,Cardiovascular / Pulmonary,6
+train,Neurology,5
+train,Neurology,4
+train,Orthopedic,8
+train,ENT - Otolaryngology,3
+train,Radiology,4
+train,Gastroenterology,5
+train,Neurology,4
+train,Gastroenterology,12
+train,Ophthalmology,7
+train,Orthopedic,5
+train,Orthopedic,7
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,1
+train,Neurology,8
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,1
+train,Gastroenterology,3
+train,Orthopedic,0
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,5
+train,Gastroenterology,3
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,3
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,7
+train,Gastroenterology,1
+train,Neurology,5
+train,Cardiovascular / Pulmonary,9
+train,Orthopedic,5
+train,Obstetrics / Gynecology,5
+train,Cardiovascular / Pulmonary,9
+train,Cardiovascular / Pulmonary,5
+train,Neurosurgery,0
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,1
+train,Ophthalmology,7
+train,Orthopedic,5
+train,Cardiovascular / Pulmonary,6
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,3
+train,Hematology - Oncology,3
+train,Obstetrics / Gynecology,5
+train,Ophthalmology,7
+train,Ophthalmology,7
+train,Cardiovascular / Pulmonary,5
+train,Orthopedic,7
+train,Orthopedic,8
+train,Orthopedic,7
+train,Orthopedic,7
+train,Obstetrics / Gynecology,5
+train,Cardiovascular / Pulmonary,5
+train,Cardiovascular / Pulmonary,5
+train,Orthopedic,7
+train,Neurology,3
+train,Gastroenterology,2
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,1
+train,Orthopedic,0
+train,Neurology,10
+train,Neurology,4
+train,Cardiovascular / Pulmonary,10
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,5
+train,Neurology,4
+train,ENT - Otolaryngology,3
+train,Nephrology,3
+train,Cardiovascular / Pulmonary,3
+train,Gastroenterology,5
+train,Orthopedic,4
+train,Hematology - Oncology,1
+train,Neurology,5
+train,Neurology,4
+train,Radiology,6
+train,Gastroenterology,12
+train,Radiology,8
+train,Cardiovascular / Pulmonary,3
+train,Neurology,5
+train,Orthopedic,7
+train,Hematology - Oncology,3
+train,Orthopedic,3
+train,Hematology - Oncology,5
+train,Radiology,4
+train,Gastroenterology,12
+train,Cardiovascular / Pulmonary,1
+train,Cardiovascular / Pulmonary,1
+train,Gastroenterology,8
+train,Gastroenterology,5
+train,Neurology,4
+train,Pediatrics - Neonatal,11
+train,Pediatrics - Neonatal,11
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,3
+train,Psychiatry / Psychology,5
+train,Cardiovascular / Pulmonary,1
+train,Hematology - Oncology,1
+train,Orthopedic,7
+train,Radiology,11
+train,Orthopedic,8
+train,Neurology,4
+train,Orthopedic,7
+train,Orthopedic,5
+train,Neurology,3
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,5
+train,Orthopedic,7
+train,Neurology,8
+train,Cardiovascular / Pulmonary,5
+train,Psychiatry / Psychology,1
+train,Cardiovascular / Pulmonary,10
+train,ENT - Otolaryngology,3
+train,Cardiovascular / Pulmonary,8
+train,Gastroenterology,12
+train,Neurology,5
+train,Gastroenterology,12
+train,Pediatrics - Neonatal,5
+train,Cardiovascular / Pulmonary,10
+train,Nephrology,2
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,3
+train,Gastroenterology,2
+train,Cardiovascular / Pulmonary,12
+train,Nephrology,8
+train,Neurosurgery,3
+train,Neurology,4
+train,Nephrology,5
+train,Orthopedic,3
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,7
+train,Neurology,8
+train,Nephrology,3
+train,Orthopedic,3
+train,Neurology,4
+train,Cardiovascular / Pulmonary,10
+train,Cardiovascular / Pulmonary,1
+train,Gastroenterology,5
+train,Orthopedic,7
+train,Obstetrics / Gynecology,11
+train,Radiology,4
+train,Obstetrics / Gynecology,2
+train,Orthopedic,5
+train,Neurosurgery,0
+train,Orthopedic,1
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,3
+train,Obstetrics / Gynecology,2
+train,Cardiovascular / Pulmonary,9
+train,Orthopedic,0
+train,Cardiovascular / Pulmonary,3
+train,Orthopedic,7
+train,Neurosurgery,3
+train,Hematology - Oncology,5
+train,Cardiovascular / Pulmonary,3
+train,Neurology,5
+train,Cardiovascular / Pulmonary,1
+train,Hematology - Oncology,3
+train,Orthopedic,5
+train,Neurology,7
+train,Cardiovascular / Pulmonary,1
+train,ENT - Otolaryngology,12
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,3
+train,Cardiovascular / Pulmonary,6
+train,Neurology,5
+train,Cardiovascular / Pulmonary,10
+train,Hematology - Oncology,3
+train,Neurosurgery,0
+train,Cardiovascular / Pulmonary,12
+train,Orthopedic,7
+train,Cardiovascular / Pulmonary,3
+train,ENT - Otolaryngology,3
+train,Orthopedic,5
+train,Gastroenterology,5
+train,Radiology,11
+train,Orthopedic,5
+train,Pediatrics - Neonatal,11
+train,Neurosurgery,7
+train,Cardiovascular / Pulmonary,6
+train,Neurology,5
+train,Orthopedic,7
+train,Neurology,5
+train,Neurology,8
+train,Obstetrics / Gynecology,11
+train,Gastroenterology,2
+val,Nephrology,2
+val,Neurosurgery,7
+val,Cardiovascular / Pulmonary,9
+val,Orthopedic,5
+val,Cardiovascular / Pulmonary,5
+val,Hematology - Oncology,3
+val,Orthopedic,5
+val,Hematology - Oncology,5
+val,Orthopedic,7
+val,Cardiovascular / Pulmonary,3
+val,Orthopedic,5
+val,Cardiovascular / Pulmonary,3
+val,Ophthalmology,7
+val,Ophthalmology,7
+val,Orthopedic,7
+val,Orthopedic,7
+val,Cardiovascular / Pulmonary,9
+val,Neurosurgery,7
+val,Radiology,4
+val,Cardiovascular / Pulmonary,5
+val,Neurology,3
+val,Neurology,5
+val,Cardiovascular / Pulmonary,6
+val,Neurology,5
+val,Obstetrics / Gynecology,8
+val,Neurosurgery,0
+val,Cardiovascular / Pulmonary,10
+val,Orthopedic,7
+val,Obstetrics / Gynecology,2
+val,ENT - Otolaryngology,3
+val,Orthopedic,3
+val,Orthopedic,0
+val,Cardiovascular / Pulmonary,1
+val,Cardiovascular / Pulmonary,10
+val,Cardiovascular / Pulmonary,10
+val,Gastroenterology,8
+val,Cardiovascular / Pulmonary,1
+val,Cardiovascular / Pulmonary,5
+val,Obstetrics / Gynecology,5
+val,Nephrology,11
+val,Orthopedic,7
+val,Obstetrics / Gynecology,2
+val,Orthopedic,5
+val,Neurology,5
+val,Neurosurgery,0
+val,Hematology - Oncology,5
+val,Orthopedic,7
+val,Nephrology,1
+val,Neurology,4
+val,Cardiovascular / Pulmonary,10
+val,Hematology - Oncology,5
+val,Cardiovascular / Pulmonary,10
+val,Orthopedic,8
+val,ENT - Otolaryngology,11
+val,Nephrology,1
+val,Gastroenterology,5
+val,Hematology - Oncology,1
+val,Cardiovascular / Pulmonary,7
+val,Pediatrics - Neonatal,11
+val,Cardiovascular / Pulmonary,10
+val,Cardiovascular / Pulmonary,5
+val,Psychiatry / Psychology,5
+val,Cardiovascular / Pulmonary,5
+val,Cardiovascular / Pulmonary,8
+val,Gastroenterology,12
+val,Cardiovascular / Pulmonary,10
+val,Gastroenterology,2
+val,Cardiovascular / Pulmonary,10
+val,Neurology,8
+val,Cardiovascular / Pulmonary,3
+val,Cardiovascular / Pulmonary,9
+val,Gastroenterology,3
+val,Neurology,1
+val,Neurosurgery,7
+val,Orthopedic,1
+val,ENT - Otolaryngology,3
+val,ENT - Otolaryngology,5
+val,Ophthalmology,7
+val,Neurology,4
+val,Nephrology,3
+val,Hematology - Oncology,3
+val,Hematology - Oncology,5
+val,Pediatrics - Neonatal,11
+val,Cardiovascular / Pulmonary,5
+val,Orthopedic,8
+val,Cardiovascular / Pulmonary,9
+val,ENT - Otolaryngology,11
+val,Gastroenterology,5
+val,Orthopedic,3
+val,Cardiovascular / Pulmonary,1
+val,Cardiovascular / Pulmonary,9
+val,Neurology,3
+val,Obstetrics / Gynecology,2
+val,Orthopedic,7
+val,Neurology,4
+val,Cardiovascular / Pulmonary,9
+val,Neurology,5
+val,Neurology,3
+val,Orthopedic,5
+val,Cardiovascular / Pulmonary,3
+val,Cardiovascular / Pulmonary,3
+val,Orthopedic,8
+val,Cardiovascular / Pulmonary,5
+val,Gastroenterology,11
+val,Gastroenterology,8
+val,Cardiovascular / Pulmonary,1
+val,Neurosurgery,0
+val,Gastroenterology,5
+val,Orthopedic,7
+val,Cardiovascular / Pulmonary,10
+val,Nephrology,11
+val,Radiology,4
+val,Cardiovascular / Pulmonary,3
+val,Nephrology,1
+val,Cardiovascular / Pulmonary,9
+val,Cardiovascular / Pulmonary,1
+val,Cardiovascular / Pulmonary,1
+val,Gastroenterology,3
+val,Psychiatry / Psychology,1
+val,Neurology,5
+val,Nephrology,8
+val,Orthopedic,7
+val,Gastroenterology,12
+val,Gastroenterology,5
+val,Neurology,4
+val,ENT - Otolaryngology,3
+val,Cardiovascular / Pulmonary,10
+val,Pediatrics - Neonatal,11
+val,Gastroenterology,2
+val,Cardiovascular / Pulmonary,1
+val,Cardiovascular / Pulmonary,3
+val,Obstetrics / Gynecology,2
+val,Orthopedic,5
+val,Neurology,1
+val,Gastroenterology,12
+val,Orthopedic,5
+val,Neurology,7
+val,Cardiovascular / Pulmonary,3
+val,Cardiovascular / Pulmonary,3
+val,Cardiovascular / Pulmonary,12
+val,Pediatrics - Neonatal,11
+val,Neurology,4
+val,Obstetrics / Gynecology,2
+val,Orthopedic,4
+val,Neurosurgery,0
+val,Psychiatry / Psychology,5
+val,Cardiovascular / Pulmonary,3
+val,Neurology,4
+val,Cardiovascular / Pulmonary,10
+val,Cardiovascular / Pulmonary,12
+val,Obstetrics / Gynecology,2
+val,Neurology,5
+val,Hematology - Oncology,5
+val,Psychiatry / Psychology,5
+val,Obstetrics / Gynecology,2
+val,Gastroenterology,5
+val,Orthopedic,3
+val,Cardiovascular / Pulmonary,1
+val,Hematology - Oncology,3
+val,Hematology - Oncology,5
+val,Pediatrics - Neonatal,11
+val,Obstetrics / Gynecology,2
+val,Neurosurgery,3
+val,Cardiovascular / Pulmonary,11
+val,Nephrology,10
+val,Neurology,7
+val,Neurology,4
+val,Obstetrics / Gynecology,5
+val,Nephrology,1
+val,Cardiovascular / Pulmonary,1
+val,Cardiovascular / Pulmonary,3
+val,Neurology,5
+val,Neurology,5
+val,Obstetrics / Gynecology,11
+val,Orthopedic,7
+val,Orthopedic,5
+val,Cardiovascular / Pulmonary,6
+val,Cardiovascular / Pulmonary,3
+val,Neurosurgery,7
+val,Obstetrics / Gynecology,2
+val,Radiology,4
+val,Orthopedic,7
+val,Ophthalmology,7
+val,Neurology,4
+val,Gastroenterology,2
+val,Cardiovascular / Pulmonary,3
+val,Ophthalmology,7
+val,Orthopedic,8
+val,Cardiovascular / Pulmonary,12
+val,Psychiatry / Psychology,5
+val,Obstetrics / Gynecology,2
+val,Cardiovascular / Pulmonary,9
+val,Orthopedic,5
+val,Orthopedic,4
+val,Cardiovascular / Pulmonary,9
+val,Nephrology,1
+val,Neurology,4
+val,Gastroenterology,8
+val,Cardiovascular / Pulmonary,1
+val,Obstetrics / Gynecology,11
+val,Cardiovascular / Pulmonary,10
+val,Neurology,4
+val,Pediatrics - Neonatal,11
+val,Hematology - Oncology,3
+val,Nephrology,1
+val,Orthopedic,7
+val,Hematology - Oncology,5
+val,Orthopedic,7
+val,Cardiovascular / Pulmonary,10
+val,Cardiovascular / Pulmonary,5
+val,Neurology,3
+val,Neurology,1
+val,Obstetrics / Gynecology,5
+val,Cardiovascular / Pulmonary,3
+val,Hematology - Oncology,5
+val,Cardiovascular / Pulmonary,9
+val,Cardiovascular / Pulmonary,10
+val,Nephrology,10
+val,Cardiovascular / Pulmonary,10
+val,Cardiovascular / Pulmonary,10
+val,Cardiovascular / Pulmonary,3
+val,Psychiatry / Psychology,5
+val,Orthopedic,0
+val,Gastroenterology,12
+val,Hematology - Oncology,5
+val,Hematology - Oncology,3
+val,Orthopedic,7
+val,Cardiovascular / Pulmonary,5
+val,Hematology - Oncology,5
+val,Cardiovascular / Pulmonary,1
+val,Psychiatry / Psychology,1
+val,Pediatrics - Neonatal,11
+val,Cardiovascular / Pulmonary,5
+val,Gastroenterology,5
+val,Cardiovascular / Pulmonary,3
+val,Cardiovascular / Pulmonary,9
+val,Orthopedic,5
+val,Nephrology,5
+val,Cardiovascular / Pulmonary,10
+val,Cardiovascular / Pulmonary,2
+val,Ophthalmology,5
+val,Neurology,3
+val,Hematology - Oncology,5
+val,ENT - Otolaryngology,3
+val,Neurosurgery,3
+val,Orthopedic,8
+val,Obstetrics / Gynecology,2
+val,ENT - Otolaryngology,3
+val,Orthopedic,0
+val,Gastroenterology,12
+val,Neurology,3
+val,Neurology,4
+val,Cardiovascular / Pulmonary,5
+val,Obstetrics / Gynecology,2
+val,Psychiatry / Psychology,5
+val,Pediatrics - Neonatal,11
+val,Cardiovascular / Pulmonary,1
+val,Radiology,4
+val,Cardiovascular / Pulmonary,9
+val,Cardiovascular / Pulmonary,5
+val,Cardiovascular / Pulmonary,10
+val,Cardiovascular / Pulmonary,10
+val,Gastroenterology,12
+val,Neurosurgery,0
+val,Hematology - Oncology,5
+val,Psychiatry / Psychology,5
+val,Orthopedic,4
+val,Cardiovascular / Pulmonary,3
+val,Radiology,4
+val,Cardiovascular / Pulmonary,8
+val,Psychiatry / Psychology,5
+val,Orthopedic,7
+val,ENT - Otolaryngology,5
+val,Cardiovascular / Pulmonary,9
+val,Radiology,10
+val,Orthopedic,7
+val,Orthopedic,7
+val,Neurology,5
+val,Neurology,4
+val,Ophthalmology,7
+val,ENT - Otolaryngology,11
+val,Neurosurgery,3
+val,Orthopedic,7
+val,Obstetrics / Gynecology,11
+val,Neurology,3
+val,Obstetrics / Gynecology,2
+val,Orthopedic,7
+val,Orthopedic,5
+val,Gastroenterology,2
+val,Orthopedic,5
+val,Orthopedic,7
+val,Pediatrics - Neonatal,11
+val,ENT - Otolaryngology,8
+val,Cardiovascular / Pulmonary,3
+val,ENT - Otolaryngology,11
+val,Cardiovascular / Pulmonary,1
+val,Cardiovascular / Pulmonary,5
+val,Neurosurgery,3
+val,Gastroenterology,12
+val,Obstetrics / Gynecology,2
+val,Orthopedic,7
+val,Cardiovascular / Pulmonary,9
+val,Gastroenterology,5
+val,Neurology,10
+val,Neurology,5
+val,Cardiovascular / Pulmonary,12
+val,Cardiovascular / Pulmonary,10
+val,Cardiovascular / Pulmonary,3
+val,Gastroenterology,1
+val,Orthopedic,3
+val,Neurology,5
+val,Cardiovascular / Pulmonary,9
+val,Cardiovascular / Pulmonary,5
+val,Neurology,5
+val,Cardiovascular / Pulmonary,3
+val,Neurology,4
+val,Obstetrics / Gynecology,11
+val,Cardiovascular / Pulmonary,3
+val,Neurology,8
+val,Neurology,5
+val,Orthopedic,7
+val,Obstetrics / Gynecology,1
+val,Cardiovascular / Pulmonary,5
+val,Orthopedic,1
+val,Orthopedic,8
+val,Nephrology,8
+val,Neurology,5
+val,Cardiovascular / Pulmonary,3
+val,Gastroenterology,12
+val,Nephrology,1
+val,Orthopedic,1
+val,Cardiovascular / Pulmonary,9
+val,Orthopedic,7
+val,Obstetrics / Gynecology,3
+val,Ophthalmology,5
+val,Gastroenterology,3
+val,ENT - Otolaryngology,3
+val,Cardiovascular / Pulmonary,6
+val,Cardiovascular / Pulmonary,3
+val,Neurology,8
+val,Cardiovascular / Pulmonary,9
+val,Cardiovascular / Pulmonary,10
+val,Ophthalmology,7
+val,Gastroenterology,5
+val,Cardiovascular / Pulmonary,10
+val,Pediatrics - Neonatal,11
+val,Hematology - Oncology,5
+val,Orthopedic,7
+val,Orthopedic,8
+val,Ophthalmology,7
+val,Orthopedic,5
+val,Orthopedic,7
+val,Orthopedic,3
+val,Radiology,4
+val,Radiology,5
+val,Neurology,5
+val,Cardiovascular / Pulmonary,12
+val,Cardiovascular / Pulmonary,1
+val,Cardiovascular / Pulmonary,1
+val,Orthopedic,8
+val,Cardiovascular / Pulmonary,10
+val,Cardiovascular / Pulmonary,1
+val,Neurology,5
+val,Neurology,8
+val,Orthopedic,7
+val,Orthopedic,7
+val,Radiology,10
+val,Neurology,5
+val,Gastroenterology,1
+val,Neurology,5
+test,Orthopedic,7
+test,Cardiovascular / Pulmonary,8
+test,Cardiovascular / Pulmonary,1
+test,Orthopedic,7
+test,Neurology,4
+test,ENT - Otolaryngology,11
+test,Neurology,5
+test,Gastroenterology,3
+test,Cardiovascular / Pulmonary,10
+test,Gastroenterology,12
+test,Obstetrics / Gynecology,5
+test,Cardiovascular / Pulmonary,10
+test,Cardiovascular / Pulmonary,3
+test,Orthopedic,7
+test,Cardiovascular / Pulmonary,5
+test,Neurology,5
+test,Obstetrics / Gynecology,2
+test,Cardiovascular / Pulmonary,1
+test,Neurology,4
+test,Neurosurgery,3
+test,Orthopedic,5
+test,Cardiovascular / Pulmonary,12
+test,Cardiovascular / Pulmonary,3
+test,Obstetrics / Gynecology,2
+test,Ophthalmology,5
+test,Cardiovascular / Pulmonary,10
+test,Orthopedic,7
+test,Hematology - Oncology,3
+test,Cardiovascular / Pulmonary,3
+test,Obstetrics / Gynecology,1
+test,Gastroenterology,11
+test,Gastroenterology,12
+test,Neurology,5
+test,Cardiovascular / Pulmonary,9
+test,Obstetrics / Gynecology,5
+test,Cardiovascular / Pulmonary,5
+test,Neurosurgery,3
+test,Gastroenterology,5
+test,Cardiovascular / Pulmonary,3
+test,Neurology,1
+test,Gastroenterology,2
+test,Neurology,5
+test,Cardiovascular / Pulmonary,10
+test,Cardiovascular / Pulmonary,1
+test,Gastroenterology,1
+test,Obstetrics / Gynecology,5
+test,Neurosurgery,0
+test,ENT - Otolaryngology,5
+test,Cardiovascular / Pulmonary,1
+test,Cardiovascular / Pulmonary,1
+test,Gastroenterology,11
+test,Orthopedic,7
+test,Neurosurgery,0
+test,ENT - Otolaryngology,11
+test,Cardiovascular / Pulmonary,3
+test,Neurology,5
+test,Neurology,4
+test,Hematology - Oncology,5
+test,Orthopedic,3
+test,Gastroenterology,12
+test,Psychiatry / Psychology,5
+test,Gastroenterology,12
+test,Gastroenterology,3
+test,Orthopedic,3
+test,Orthopedic,5
+test,Neurosurgery,0
+test,Obstetrics / Gynecology,2
+test,Neurology,5
+test,Obstetrics / Gynecology,5
+test,Cardiovascular / Pulmonary,5
+test,Orthopedic,4
+test,Neurology,4
+test,Psychiatry / Psychology,5
+test,Neurology,5
+test,Cardiovascular / Pulmonary,3
+test,Orthopedic,7
+test,Cardiovascular / Pulmonary,12
+test,Cardiovascular / Pulmonary,9
+test,ENT - Otolaryngology,5
+test,Ophthalmology,3
+test,Cardiovascular / Pulmonary,3
+test,Cardiovascular / Pulmonary,10
+test,Orthopedic,5
+test,Hematology - Oncology,3
+test,Cardiovascular / Pulmonary,1
+test,Cardiovascular / Pulmonary,3
+test,Orthopedic,0
+test,Neurology,5
+test,Hematology - Oncology,5
+test,Orthopedic,0
+test,Cardiovascular / Pulmonary,9
+test,Obstetrics / Gynecology,11
+test,Cardiovascular / Pulmonary,10
+test,Cardiovascular / Pulmonary,3
+test,Neurology,3
+test,Obstetrics / Gynecology,3
+test,Cardiovascular / Pulmonary,3
+test,Cardiovascular / Pulmonary,8
+test,Obstetrics / Gynecology,5
+test,Neurology,4
+test,Neurology,3
+test,Cardiovascular / Pulmonary,1
+test,Cardiovascular / Pulmonary,6
+test,Orthopedic,5
+test,Orthopedic,5
+test,Orthopedic,7
+test,Cardiovascular / Pulmonary,5
+test,Neurosurgery,7
+test,Ophthalmology,3
+test,Orthopedic,5
+test,Nephrology,5
+test,Orthopedic,5
+test,Neurology,8
+test,Psychiatry / Psychology,5
+test,ENT - Otolaryngology,5
+test,Cardiovascular / Pulmonary,8
+test,Obstetrics / Gynecology,11
+test,Hematology - Oncology,1
+test,Neurology,4
+test,Ophthalmology,5
+test,Neurology,4
+test,Neurology,5
+test,Psychiatry / Psychology,5
+test,Cardiovascular / Pulmonary,1
+test,Orthopedic,7
+test,Orthopedic,7
+test,Gastroenterology,3
+test,Neurosurgery,5
+test,Neurosurgery,3
+test,ENT - Otolaryngology,11
+test,Obstetrics / Gynecology,11
+test,Cardiovascular / Pulmonary,9
+test,Neurosurgery,0
+test,Hematology - Oncology,5
+test,Cardiovascular / Pulmonary,9
+test,Neurology,4
+test,Obstetrics / Gynecology,11
+test,Orthopedic,5
+test,Ophthalmology,7
+test,Orthopedic,0
+test,Neurology,4
+test,Cardiovascular / Pulmonary,3
+test,Cardiovascular / Pulmonary,3
+test,Cardiovascular / Pulmonary,9
+test,Gastroenterology,2
+test,Cardiovascular / Pulmonary,3
+test,Gastroenterology,12
+test,Gastroenterology,12
+test,Cardiovascular / Pulmonary,3
+test,Cardiovascular / Pulmonary,1
+test,Orthopedic,1
+test,Hematology - Oncology,5
+test,Neurosurgery,7
+test,Neurology,4
+test,Cardiovascular / Pulmonary,10
+test,Neurology,7
+test,Cardiovascular / Pulmonary,5
+test,Cardiovascular / Pulmonary,9
+test,Obstetrics / Gynecology,2
+test,Neurology,11
+test,Cardiovascular / Pulmonary,9
+test,Cardiovascular / Pulmonary,10
+test,Nephrology,3
+test,Orthopedic,3
+test,Ophthalmology,7
+test,Nephrology,1
+test,Orthopedic,4
+test,Cardiovascular / Pulmonary,10
+test,Obstetrics / Gynecology,11
+test,Hematology - Oncology,3
+test,Orthopedic,8
+test,Gastroenterology,1
+test,Neurosurgery,3
+test,ENT - Otolaryngology,3
+test,Nephrology,3
+test,Ophthalmology,3
+test,Cardiovascular / Pulmonary,3
+test,Orthopedic,5
+test,Cardiovascular / Pulmonary,3
+test,Gastroenterology,11
+test,ENT - Otolaryngology,3
+test,Orthopedic,1
+test,Gastroenterology,3
+test,Obstetrics / Gynecology,5
+test,Nephrology,5
+test,Cardiovascular / Pulmonary,3
+test,Cardiovascular / Pulmonary,10
+test,Cardiovascular / Pulmonary,3
+test,Cardiovascular / Pulmonary,3
+test,Neurology,4
+test,Orthopedic,7
+test,Orthopedic,7
+test,Gastroenterology,12
+test,Orthopedic,7
+test,Neurology,1
+test,Orthopedic,5
+test,Gastroenterology,1
+test,Nephrology,1
+test,Gastroenterology,8
+test,Orthopedic,7
+test,Hematology - Oncology,8
+test,Neurology,5
+test,Orthopedic,7
+test,Cardiovascular / Pulmonary,9
+test,Ophthalmology,5
+test,Ophthalmology,7
+test,Cardiovascular / Pulmonary,10
+test,Neurology,5
+test,Obstetrics / Gynecology,11
+test,Cardiovascular / Pulmonary,3
+test,Gastroenterology,12
+test,Gastroenterology,5
+test,ENT - Otolaryngology,5
+test,ENT - Otolaryngology,11
+test,Neurology,5
+test,Gastroenterology,2
+test,Cardiovascular / Pulmonary,1
+test,Hematology - Oncology,5
+test,Orthopedic,7
+test,Cardiovascular / Pulmonary,6
+test,Cardiovascular / Pulmonary,3
+test,Orthopedic,7
+test,Neurology,11
+test,Neurology,5
+test,Nephrology,8
+test,Cardiovascular / Pulmonary,3
+test,Cardiovascular / Pulmonary,12
+test,Neurosurgery,3
+test,Neurology,3
+test,Neurology,4
+test,Cardiovascular / Pulmonary,10
+test,Hematology - Oncology,5
+test,Psychiatry / Psychology,1
+test,Neurology,4
+test,Cardiovascular / Pulmonary,11
+test,Cardiovascular / Pulmonary,4
+test,Gastroenterology,1
+test,Neurology,4
+test,Cardiovascular / Pulmonary,3
+test,Radiology,10
+test,Cardiovascular / Pulmonary,3
+test,Neurology,4
+test,Neurology,4
+test,Cardiovascular / Pulmonary,3
+test,Orthopedic,7
+test,Neurology,4
+test,Cardiovascular / Pulmonary,10
+test,Pediatrics - Neonatal,11
+test,Neurosurgery,7
+test,Orthopedic,4
+test,Cardiovascular / Pulmonary,8
+test,Orthopedic,0
+test,Gastroenterology,5
+test,Orthopedic,7
+test,Hematology - Oncology,3
+test,Cardiovascular / Pulmonary,3
+test,Cardiovascular / Pulmonary,1
+test,Cardiovascular / Pulmonary,9
+test,Cardiovascular / Pulmonary,1
+test,Obstetrics / Gynecology,2
+test,Cardiovascular / Pulmonary,10
+test,Neurosurgery,3
+test,Orthopedic,7
+test,Orthopedic,7
+test,Cardiovascular / Pulmonary,8
+test,Nephrology,1
+test,Cardiovascular / Pulmonary,6
+test,Hematology - Oncology,5
+test,Gastroenterology,12
+test,Cardiovascular / Pulmonary,5
+test,Neurology,4
+test,Cardiovascular / Pulmonary,3
+test,Cardiovascular / Pulmonary,12
+test,Cardiovascular / Pulmonary,6
+test,Orthopedic,7
+test,Neurosurgery,0
+test,Orthopedic,7
+test,Neurosurgery,3
+test,Ophthalmology,3
+test,Pediatrics - Neonatal,11
+test,Obstetrics / Gynecology,3
+test,Cardiovascular / Pulmonary,1
+test,Cardiovascular / Pulmonary,3
+test,Obstetrics / Gynecology,2
+test,Cardiovascular / Pulmonary,12
+test,Orthopedic,8
+test,Obstetrics / Gynecology,2
+test,Orthopedic,11
+test,Hematology - Oncology,3
+test,Neurosurgery,3
+test,Cardiovascular / Pulmonary,3
+test,Neurology,4
+test,Gastroenterology,12
+test,Gastroenterology,3
+test,Psychiatry / Psychology,1
+test,Cardiovascular / Pulmonary,10
+test,Cardiovascular / Pulmonary,9
+test,Orthopedic,5
+test,Cardiovascular / Pulmonary,3
+test,Cardiovascular / Pulmonary,1
+test,Cardiovascular / Pulmonary,10
+test,Neurology,8
+test,Gastroenterology,12
+test,Gastroenterology,12
+test,Cardiovascular / Pulmonary,12
+test,Cardiovascular / Pulmonary,10
+test,Gastroenterology,12
+test,Cardiovascular / Pulmonary,6
+test,Obstetrics / Gynecology,5
+test,Gastroenterology,3
+test,Hematology - Oncology,1
+test,Neurology,5
+test,Obstetrics / Gynecology,11
+test,Orthopedic,7
+test,Cardiovascular / Pulmonary,9
+test,Neurology,4
+test,Gastroenterology,5
+test,Cardiovascular / Pulmonary,1
+test,Neurology,4
+test,Cardiovascular / Pulmonary,3
+test,Cardiovascular / Pulmonary,9
+test,Cardiovascular / Pulmonary,1
+test,Obstetrics / Gynecology,2
+test,Orthopedic,7
+test,Obstetrics / Gynecology,3
+test,Gastroenterology,2
+test,Psychiatry / Psychology,5
+test,Obstetrics / Gynecology,2
+test,Cardiovascular / Pulmonary,1
+test,Orthopedic,5
+test,ENT - Otolaryngology,3
+test,Gastroenterology,5
+test,Cardiovascular / Pulmonary,3
+test,Gastroenterology,2
+test,Gastroenterology,2
+test,Neurology,5
+test,Pediatrics - Neonatal,11
+test,Obstetrics / Gynecology,3
+test,Psychiatry / Psychology,5
+test,Cardiovascular / Pulmonary,1
+test,Obstetrics / Gynecology,2
+test,Neurosurgery,0
+test,Obstetrics / Gynecology,3
+test,Orthopedic,7
+test,Radiology,4
+test,Obstetrics / Gynecology,11
+test,ENT - Otolaryngology,3
+test,Nephrology,8
+test,Orthopedic,7
+test,Gastroenterology,2
+test,Gastroenterology,12
+test,Cardiovascular / Pulmonary,1
+test,Orthopedic,5
+test,Cardiovascular / Pulmonary,3
+test,Ophthalmology,7
+test,ENT - Otolaryngology,11
+test,Neurosurgery,3
+test,Obstetrics / Gynecology,2
+test,Cardiovascular / Pulmonary,1
+test,Orthopedic,5
+test,Orthopedic,0
+test,Orthopedic,7
+test,Cardiovascular / Pulmonary,9
+test,Neurosurgery,7
+test,Gastroenterology,12
+test,Neurology,4
+test,Cardiovascular / Pulmonary,3
+test,Psychiatry / Psychology,1
+test,Nephrology,1
+test,ENT - Otolaryngology,3
