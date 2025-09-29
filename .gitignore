@@ -1,2 +1,45 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# 📝 Jupyter Notebook
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# 🔒 Virtual Environment
 .venv/
+env/
+venv/
+ENV/
+*.virtualenv
+
+# 📦 Package/Cache
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# 📊 Data Files (large datasets, not needed in Git)
+*.csv
+*.npz
+*.joblib
+*.pkl
+
+# 🚀 Artifacts & Models
+/artifacts_*/
+/*.pkl
+/*.joblib
+
+# VS Code
+.vscode/
+
 
