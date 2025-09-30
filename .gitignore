@@ -31,13 +31,11 @@ Thumbs.db
 # 📊 Data Files (large datasets, not needed in Git)
 *.csv
 *.npz
-*.joblib
 *.pkl
 
 # 🚀 Artifacts & Models
 /artifacts_*/
 /*.pkl
-/*.joblib
 
 # VS Code
 .vscode/
